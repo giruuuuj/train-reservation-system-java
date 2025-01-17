@@ -1,6 +1,6 @@
 # Train Ticket Reservation System 
 <!-- - Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw -->
-- Youtube video for Step by Step Guide on Local Setup: 
+ 
 <!-- - Live Url: https://traintickets.herokuapp.com <br>  -->
 <!-- - Login Credentials: admin/admin -->
 
