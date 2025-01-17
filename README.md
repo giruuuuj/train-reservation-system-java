@@ -55,14 +55,7 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Servlet
 - Oracle ( SQL )
 
-### ==== Software And Tools Required ======
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : Oracle (SQL) / SQL PLUS [https://www.youtube.com/watch?v=ZYOqykEDSqU]
-- : Oracle SQL Developer [https://www.youtube.com/watch?v=2a1JKIGVtd0]
+
 
 ### ========== Dummy Database Initialization ===========
 
@@ -159,8 +152,7 @@ SELECT * FROM HISTORY;
 Note: If any of the above commands fails, please try to fix it first and then proceed to next step
 	
 ### ====== Importing and Running the Project Through Eclipse EE ===========
-Step 0: Open Eclipse Enterprise Edition. [Install if not available](https://www.youtube.com/watch?v=8aDsEV7txXE)
-
+Step 0: Open Eclipse Enterprise Edition.
 Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
 
 Step 2.A: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
@@ -177,7 +169,7 @@ Step 6: Check Running The Site At  <a Href="Http://localhost:8083/trainbook/">ht
 
 Step 7: Default Username And Password For Admin Is "admin@demo.com" And "admin"
 
-Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
+Step 8: Default Username And Password For User Is "abhijeet@demo.com" And "abhijee kale"
 
 
 
